@@ -1,0 +1,11 @@
+C:\HRLeaveManagement\HRLeaveManagementClean\HRLeaveManagementDomain\bin\Debug\net7.0\HRLeaveManagementDomain.deps.json
+C:\HRLeaveManagement\HRLeaveManagementClean\HRLeaveManagementDomain\bin\Debug\net7.0\HRLeaveManagementDomain.dll
+C:\HRLeaveManagement\HRLeaveManagementClean\HRLeaveManagementDomain\bin\Debug\net7.0\HRLeaveManagementDomain.pdb
+C:\HRLeaveManagement\HRLeaveManagementClean\HRLeaveManagementDomain\obj\Debug\net7.0\HRLeaveManagementDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\HRLeaveManagement\HRLeaveManagementClean\HRLeaveManagementDomain\obj\Debug\net7.0\HRLeaveManagementDomain.AssemblyInfoInputs.cache
+C:\HRLeaveManagement\HRLeaveManagementClean\HRLeaveManagementDomain\obj\Debug\net7.0\HRLeaveManagementDomain.AssemblyInfo.cs
+C:\HRLeaveManagement\HRLeaveManagementClean\HRLeaveManagementDomain\obj\Debug\net7.0\HRLeaveManagementDomain.csproj.CoreCompileInputs.cache
+C:\HRLeaveManagement\HRLeaveManagementClean\HRLeaveManagementDomain\obj\Debug\net7.0\HRLeaveManagementDomain.dll
+C:\HRLeaveManagement\HRLeaveManagementClean\HRLeaveManagementDomain\obj\Debug\net7.0\refint\HRLeaveManagementDomain.dll
+C:\HRLeaveManagement\HRLeaveManagementClean\HRLeaveManagementDomain\obj\Debug\net7.0\HRLeaveManagementDomain.pdb
+C:\HRLeaveManagement\HRLeaveManagementClean\HRLeaveManagementDomain\obj\Debug\net7.0\ref\HRLeaveManagementDomain.dll
