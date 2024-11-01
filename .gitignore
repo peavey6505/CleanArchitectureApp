@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.vsidx
+/HRLeaveManagementClean/HR.LeaveManagement.Application/obj/Debug/net7.0/HR.LeaveManagement.Application.csproj.AssemblyReference.cache
