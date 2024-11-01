@@ -1,6 +1,82 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
+﻿# Build files
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.config
+*.log
+*.vsix
+*.nupkg
+*.snupkg
 
-*.vsidx
-/HRLeaveManagementClean/HR.LeaveManagement.Application/obj/Debug/net7.0/HR.LeaveManagement.Application.csproj.AssemblyReference.cache
+# Visual Studio user-specific settings
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Publish configurations and logs
+*.pubxml
+*.publishsettings
+*.Publish.xml
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*.wixpdb
+*.build.csdef
+*.csproj.user
+*.rsuser
+*.suo
+*.build
+
+# Temporary files and local IDE settings
+.DS_Store
+*.swp
+*.db
+*.pyc
+*.lock
+.vscode/
+.idea/
+*_ReSharper*/
+
+# Build cache and config files
+*.csproj.nuget.cache
+*.csproj.nuget.g.props
+*.csproj.nuget.g.targets
+
+# NuGet packages cache
+packages/
+.nuget/
+
+# IIS Express server files
+.IISExpress/
+
+# OS and temporary system files
+Thumbs.db
+ehthumbs.db
+*.bak
+*.tmp
+*.temp
+
+# OS system files
+$RECYCLE.BIN/
+
+# Log files
+*.log
+
+# Local Git configuration files
+.git/
+
+# Files generated during database migration
+Migrations/
+
+# Test result files
+TestResults/
+/HRLeaveManagementClean/.vs/HRLeaveManagementClean/v17/.suo
+/HRLeaveManagementClean/HR.LeaveManagement.Application/bin/Debug/net7.0/HR.LeaveManagement.Application.dll
+/HRLeaveManagementClean/HR.LeaveManagement.Application/bin/Debug/net7.0/HR.LeaveManagement.Application.pdb
+/HRLeaveManagementClean/HR.LeaveManagement.Application/obj/Debug/net7.0/HR.LeaveManagement.Application.dll
+/HRLeaveManagementClean/HR.LeaveManagement.Application/obj/Debug/net7.0/HR.LeaveManagement.Application.pdb
