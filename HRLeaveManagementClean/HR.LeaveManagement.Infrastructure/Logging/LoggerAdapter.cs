@@ -21,7 +21,7 @@ namespace HR.LeaveManagement.Infrastructure.Logging
             _logger.LogInformation(message, args);
         }
 
-        public void LogWarging(string message, params object[] args)
+        public void LogWarning(string message, params object[] args)
         {
             _logger.LogWarning(message, args);
         }
